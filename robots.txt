@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: proverennye-licenzionnye.github.io
+Sitemap: https://proverennye-licenzionnye.github.io/sitemap.xml
